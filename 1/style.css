@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#particles-js{
+    height: 100vh;
+    background: #fff;
+}
+h1{
+    position: absolute;
+    margin:5% 0 5% 36%;
+    font-family: cursive;
+    color: #300029;
+    text-transform: uppercase;
+    font-size: 4em;
+    letter-spacing: 4px;
+}
+p{
+    position: absolute;
+    font-family: cursive;
+    color: :#300029;
+    font-size: 22px;
+    letter-spacing: 4px;
+    margin: 20% 5% 10% 5%;
+}
+button{
+    padding: 10px;
+    font-family: cursive;
+    position: absolute;
+    font-size: 1.3em;
+    left: 75%;
+    top: 75%;
+    border-radius: 20px;
+    box-shadow: 5px 3px 2px rgba(96, 128, 214, 0.36);
+}
+button:hover{
+    color: red;
+    cursor: pointer;
+}
